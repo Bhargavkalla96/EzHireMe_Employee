@@ -1,0 +1,4 @@
+Open the application 
+Go to Jobs Page
+Go to Find Jobs
+Search the job title
