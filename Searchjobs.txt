@@ -1,4 +1,3 @@
 Open the application 
-Go to Jobs Page
-Go to Find Jobs
+Go to find employee
 Search the job title
